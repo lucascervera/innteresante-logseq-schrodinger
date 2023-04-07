@@ -1,7 +1,7 @@
 baseURL: https://lucascervera.github.io
 languageCode: es-ES
 title: innteresante
-theme: "PaperMod"
+theme: "Docks"
 
 params:
   homeInfoParams:
