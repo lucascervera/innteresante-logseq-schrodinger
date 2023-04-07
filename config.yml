@@ -6,7 +6,7 @@ theme: "PaperMod"
 params:
   homeInfoParams:
     Title: innteresante
-    Content: innteresante
+    Content: innteresante Descubre la innovación
 
   socialIcons: # optional
     - name: "youtube"
