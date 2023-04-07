@@ -6,7 +6,7 @@ theme: "PaperMod"
 params:
   homeInfoParams:
     Title: innteresante
-    Content: innteresante
+    Content: innteresante innova
 
   socialIcons: # optional
     - name: "youtube"
